@@ -1,0 +1,1 @@
+https://act.hoyoverse.com/sr/event/e20241122version-xuj19x/index.html

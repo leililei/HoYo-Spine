@@ -1,0 +1,1 @@
+https://act.hoyoverse.com/sr/event/e20250214version-833ooe/index.html

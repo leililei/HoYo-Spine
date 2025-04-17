@@ -1,0 +1,1 @@
+https://act.hoyoverse.com/sr/event/e20250328version-ebbbcb/index.html

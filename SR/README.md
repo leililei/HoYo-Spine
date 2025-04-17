@@ -15,6 +15,10 @@ google: ```site:act.hoyoverse.com/sr/event```
 - 2.4 https://act.hoyoverse.com/sr/event/e20240719version-37c63r/index.html
 - 2.5 https://act.hoyoverse.com/sr/event/e20240830version-2zj3e2/index.html
 - 2.6 https://act.hoyoverse.com/sr/event/e20241011version-yjlwks/index.html
+- 2.7 https://act.hoyoverse.com/sr/event/e20241122version-xuj19x/index.html
+- 3.0 https://act.hoyoverse.com/sr/event/e20250101version-saokss/index.html
+- 3.1 https://act.hoyoverse.com/sr/event/e20250214version-833ooe/index.html
+- 3.2 https://act.hoyoverse.com/sr/event/e20250328version-ebbbcb/index.html
 
 ## Home
 https://hsr.hoyoverse.com/en-us/
