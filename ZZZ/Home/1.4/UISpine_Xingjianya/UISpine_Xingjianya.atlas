@@ -1,0 +1,369 @@
+UISpine_Xingjianya.png
+size:1237,1596
+filter:Linear,Linear
+scale:0.45
+bizi
+bounds:36,1583,9,11
+bozi
+bounds:777,1258,61,63
+chenyi 07
+bounds:2,976,220,160
+rotate:90
+dao 01
+bounds:2,629,876,543
+dao 02
+bounds:165,1024,31,94
+dao 03
+bounds:26,1161,25,89
+dao 04
+bounds:951,59,43,85
+dao 05
+bounds:576,38,80,54
+erduo 01
+bounds:92,1524,26,41
+erduo 02
+bounds:171,45,117,195
+rotate:90
+erduo 03
+bounds:1171,1513,58,53
+erduo 04
+bounds:115,1426,86,157
+offsets:0,0,86,159
+erduo 05
+bounds:4,43,181,152
+rotate:180
+erduo 06
+bounds:422,467,64,59
+erduo 07
+bounds:613,867,141,143
+rotate:180
+fayin 01
+bounds:62,1410,19,12
+fayin 02
+bounds:598,1009,23,28
+gaoguang
+bounds:203,1553,13,17
+guihuo 01
+bounds:2,1391,44,203
+offsets:0,0,44,220
+guihuo 02
+bounds:2,1185,51,203
+offsets:21,0,72,203
+guihuo 03
+bounds:659,19,165,68
+rotate:180
+guihuo 04
+bounds:1042,38,176,129
+rotate:180
+guihuo 05
+bounds:485,664,206,210
+offsets:0,5,206,215
+guihuo 06
+bounds:142,796,26,22
+guihuo 07
+bounds:269,861,32,28
+guihuo 08
+bounds:402,701,79,97
+guihuo 09
+bounds:248,455,174,95
+guihuo 10
+bounds:744,45,158,64
+guihuo 11
+bounds:1017,355,177,146
+houfa 01
+bounds:2,294,24,93
+houfa 02
+bounds:789,1322,33,57
+houfa 03
+bounds:64,2,50,98
+rotate:270
+houfa 04
+bounds:797,1314,44,107
+offsets:1,0,45,107
+rotate:180
+houfa 05
+bounds:344,54,61,110
+houfa 06
+bounds:979,1358,111,88
+houfa 07
+bounds:38,1298,33,52
+houfa 08
+bounds:467,6,105,61
+houfa 09
+bounds:539,497,112,35
+houfa 10
+bounds:147,376,167,82
+houfa 11
+bounds:2,397,481,122
+houfa 12
+bounds:1018,196,205,161
+houfa 13
+bounds:585,354,270,260
+houfa 14
+bounds:329,429,35,114
+rotate:90
+houfa 15
+bounds:1109,10,79,111
+rotate:90
+houfa 16
+bounds:353,101,149,238
+rotate:90
+houfa 17
+bounds:1075,1309,51,149
+offsets:3,0,54,149
+houfa 18
+bounds:949,457,266,284
+houfa 19
+bounds:392,1041,52,103
+offsets:0,1,53,104
+houfa 20
+bounds:79,813,276,73
+houfa 21
+bounds:975,24,74,78
+houfa 22
+bounds:1198,1186,66,36
+rotate:90
+houfa 23
+bounds:173,202,211,193
+rotate:90
+houfa 24
+bounds:46,1395,140,25
+rotate:90
+houfa 26
+bounds:1103,104,116,148
+houfa 27
+bounds:685,868,32,48
+houfa 28
+bounds:654,107,293,78
+houfa 29
+bounds:187,5,74,27
+houfa 30
+bounds:409,166,184,231
+rotate:90
+houfa 31
+bounds:870,19,60,84
+rotate:180
+houfa 32
+bounds:675,275,269,270
+rotate:90
+houfa 33
+bounds:1137,426,98,102
+rotate:180
+houfa 34
+bounds:183,39,126,82
+houfa 35
+bounds:407,27,126,37
+houfa 5
+bounds:799,1073,521,198
+rotate:270
+houfayin 5
+bounds:64,1426,139,25
+rotate:90
+jinshu 01
+bounds:226,868,35,13
+lian
+bounds:21,277,148,162
+pifeng 01
+bounds:831,665,437,305
+rotate:90
+pifeng 02
+bounds:72,43,106,68
+pifeng 03
+bounds:184,113,140,152
+rotate:90
+pifeng 04
+bounds:9,523,127,270
+rotate:270
+pifeng 05
+bounds:290,318,74,76
+pifeng 06
+bounds:43,955,36,25
+pifeng 07
+bounds:2,709,122,149
+pifeng hou
+bounds:858,538,239,168
+rotate:90
+qianfa 01
+bounds:873,1547,48,47
+qianfa 02
+bounds:566,997,41,47
+qianfa 03
+bounds:757,1543,37,51
+qianfa 04
+bounds:507,454,86,236
+rotate:90
+qianfa 05
+bounds:860,780,38,140
+rotate:90
+qianfa 06
+bounds:86,1393,27,114
+rotate:180
+qianfa 07
+bounds:1192,1125,42,61
+qianfa 08
+bounds:944,1297,50,123
+qianfa 09
+bounds:1096,1406,39,55
+qianfa 10
+bounds:728,1146,107,134
+rotate:90
+qianfa 11
+bounds:949,1221,45,91
+qianfa 12
+bounds:2,510,44,63
+qianfa 13
+bounds:854,1006,120,119
+qianfa 14
+bounds:595,69,150,131
+qianfa 15
+bounds:763,1243,35,32
+qianfa 16
+bounds:2,946,38,27
+qunzi 01
+bounds:856,281,153,205
+rotate:270
+qunzi 02
+bounds:511,1398,16,29
+qunzi 04
+bounds:360,846,49,58
+qunzi 06
+bounds:445,1037,349,557
+rotate:180
+qunzi03
+bounds:442,44,150,74
+shengjie 01
+bounds:571,1579,28,15
+shengjie 02
+bounds:304,850,31,23
+shengjie 03
+bounds:30,1254,17,21
+shengjie 04
+bounds:413,886,70,88
+shenti 01
+bounds:2,171,178,107
+shipin 01
+bounds:798,1425,44,93
+tui 01
+bounds:928,1450,144,239
+rotate:90
+tui 02
+bounds:1118,743,99,307
+tui 03
+bounds:989,970,111,402
+tui 04
+bounds:1103,1056,102,116
+offsets:0,6,102,122
+tui 05
+bounds:283,535,169,462
+rotate:90
+tui 06
+bounds:331,284,195,211
+rotate:90
+tui 07
+bounds:1097,1161,113,348
+tui 08
+bounds:58,1539,13,16
+tui 09
+bounds:678,606,178,458
+rotate:180
+yanwu 01
+bounds:828,165,226,158
+rotate:180
+yanwu 02
+bounds:51,1106,488,456
+offsets:16,0,509,456
+rotate:90
+yinying 01
+bounds:2,1141,25,40
+yinying 02
+bounds:52,1200,17,25
+yinying 03
+bounds:857,902,31,52
+yinying 04
+bounds:665,820,45,46
+yinying 05
+bounds:106,770,45,52
+yinying 06
+bounds:485,928,32,43
+yinying 07
+bounds:860,831,92,63
+youbi 01
+bounds:479,1509,100,85
+youbi 02
+bounds:1164,524,69,58
+youbi 03
+bounds:433,1562,41,32
+youbi 04
+bounds:336,708,59,39
+youbi 05
+bounds:158,25,89,45
+youbi 06
+bounds:185,1568,86,26
+youbi 07
+bounds:121,1191,32,22
+youbi 08
+bounds:612,171,225,118
+youbi 09
+bounds:56,1359,36,32
+youbi 10
+bounds:440,965,149,86
+youmei
+bounds:47,1568,61,10
+youyan 01
+bounds:49,1528,38,8
+rotate:90
+youyan 02
+bounds:59,1579,54,11
+youyan 03
+bounds:394,1113,17,16
+youyan 04
+bounds:134,1005,27,14
+youyan 05
+bounds:92,1511,22,9
+youyan 06
+bounds:117,1579,34,15
+youyan 07
+bounds:511,1430,25,21
+youyan 08
+bounds:275,1574,43,20
+offsets:3,0,46,21
+zui
+bounds:2,1520,8,7
+zuobi 01
+bounds:510,1455,42,52
+zuobi 02
+bounds:316,1070,85,58
+zuobi 03
+bounds:690,1074,59,54
+rotate:90
+zuobi 04
+bounds:828,9,41,59
+zuobi 05
+bounds:2,1441,21,65
+zuobi 06
+bounds:2,1407,17,30
+zuobi 07
+bounds:123,995,29,14
+zuomei
+bounds:83,978,37,18
+zuoxiuzi
+bounds:2,863,245,437
+rotate:90
+zuoyan 01
+bounds:189,1056,16,24
+zuoyan 01 111
+bounds:546,1482,16,24
+zuoyan 03
+bounds:413,1032,39,26
+zuoyan 04
+bounds:2,1109,22,28
+zuoyan 05
+bounds:321,1584,18,10
+zuoyan 06
+bounds:220,793,29,15
+zuoyan 07
+bounds:2,1380,22,23
+zuoyan 08
+bounds:192,1083,31,25
+zuoyan02
+bounds:31,1276,23,21

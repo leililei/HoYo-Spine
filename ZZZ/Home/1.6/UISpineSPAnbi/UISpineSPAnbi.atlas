@@ -1,0 +1,345 @@
+UISpineSPAnbi.png
+size:2048,1059
+filter:Linear,Linear
+scale:0.3
+bizi
+bounds:770,993,11,22
+houqun 01
+bounds:5,474,583,313
+rotate:90
+houqun 02
+bounds:814,987,22,15
+lianxian
+bounds:812,651,186,174
+pi
+bounds:558,930,208,127
+piaodai 01
+bounds:803,14,178,196
+piaodai 02
+bounds:459,116,407,306
+piaodai 03
+bounds:1424,163,483,224
+piaodai 04
+bounds:261,155,206,197
+qunzi 01
+bounds:311,943,8,14
+qunzi 02
+bounds:1158,1021,23,36
+qunzi 03
+bounds:1179,1023,6,17
+qunzi 05
+bounds:59,955,9,26
+qunzi 06
+bounds:33,1015,10,42
+qunzi 07
+bounds:1918,922,7,17
+qunzi 08
+bounds:304,684,459,373
+qunzi 09
+bounds:1199,246,440,283
+rotate:180
+qunzi 10
+bounds:1934,754,112,62
+qunzi 11
+bounds:2,305,220,166
+qunzi 12
+bounds:410,557,56,34
+qunzi 13
+bounds:1161,440,80,26
+qunzi 14
+bounds:146,1036,24,21
+shenti 01
+bounds:1929,439,117,76
+shenti 02
+bounds:181,427,101,40
+shenti 03
+bounds:1207,1037,24,20
+shenti 04
+bounds:664,337,314,301
+offsets:0,0,323,301
+shenti 04 yin
+bounds:1157,996,21,22
+shenti 05
+bounds:1186,203,186,118
+offsets:0,1,186,119
+shenti 06
+bounds:1887,715,59,38
+offsets:0,0,59,41
+shenti 07
+bounds:759,1001,78,56
+shenti 08
+bounds:339,1019,60,38
+offsets:0,0,60,43
+shenti 09
+bounds:810,293,105,89
+shenti 10
+bounds:673,556,32,31
+toufa 01
+bounds:181,53,90,223
+toufa 02
+bounds:1361,703,49,60
+toufa 03
+bounds:1912,433,49,67
+toufa 04
+bounds:1355,61,93,228
+toufa 05
+bounds:1320,528,44,49
+toufa 06
+bounds:2,895,38,162
+toufa 07
+bounds:1169,122,176,107
+toufa 08
+bounds:947,540,47,107
+toufa 09
+bounds:1593,619,40,116
+toufa 09 yin
+bounds:979,761,29,111
+offsets:0,3,36,114
+toufa 10
+bounds:539,1012,12,45
+toufa 11
+bounds:1451,49,71,165
+toufa 11  yinying
+bounds:1803,975,28,82
+toufa 11 sahng
+bounds:245,88,66,185
+rotate:90
+toufa 12
+bounds:108,32,69,142
+toufa 13
+bounds:1139,806,62,103
+toufa 14
+bounds:38,948,26,109
+toufa 15
+bounds:1140,756,32,63
+toufa 16
+bounds:1940,804,106,179
+toufa 17
+bounds:1968,35,78,173
+toufa 18
+bounds:1143,885,73,172
+toufa 19
+bounds:1782,40,148,249
+toufa 20
+bounds:1371,543,98,62
+toufa 21
+bounds:1888,847,43,91
+toufa 22
+bounds:604,22,112,161
+toufa 23
+bounds:141,448,65,36
+toufa 24
+bounds:322,894,15,20
+toufa 25
+bounds:1713,991,91,66
+toufa 26
+bounds:459,586,96,95
+toufa 27
+bounds:369,503,37,58
+toufa 28
+bounds:393,1022,21,35
+toufa 29
+bounds:1655,78,114,228
+rotate:90
+toufa 30
+bounds:2,1028,7,29
+toufa 31
+bounds:1782,440,129,246
+toufa 32
+bounds:394,1004,19,15
+toufa 33
+bounds:1600,517,40,55
+toufa 34
+bounds:2,433,61,118
+toufa 35
+bounds:532,1047,11,10
+toufa 36
+bounds:64,985,22,22
+toufa 37
+bounds:418,992,118,65
+yiniyng 01
+bounds:386,515,54,38
+yiniyng 02
+bounds:1438,534,49,34
+yiniyng 03
+bounds:2,574,41,53
+yiniyng 03 shang
+bounds:1733,753,40,53
+yiniyng 04
+bounds:600,407,65,157
+yiniyng 04 shang
+bounds:552,51,63,155
+yiniyng 05
+bounds:286,1040,11,17
+yiniyng 06
+bounds:322,843,26,46
+yiniyng 07
+bounds:1832,961,14,34
+yiniyng 08
+bounds:1340,1038,38,19
+yiniyng 09
+bounds:825,1034,17,23
+yiniyng 10
+bounds:1851,504,195,219
+offsets:2,0,197,219
+youtui 01
+bounds:1665,671,236,386
+rotate:180
+youtui 02
+bounds:1359,516,238,541
+rotate:180
+youtui 03
+bounds:1540,365,238,692
+rotate:180
+youyan 01
+bounds:353,760,37,23
+youyan 02
+bounds:1906,838,29,10
+youyan 03
+bounds:639,1050,26,7
+youyan 04
+bounds:1905,779,36,45
+youyan 05
+bounds:728,929,41,15
+youyan 06
+bounds:885,622,58,23
+youyan 07
+bounds:994,1017,13,22
+youyan 08
+bounds:197,1050,8,7
+youyan 09
+bounds:429,1054,2,3
+youyan 10
+bounds:414,1049,11,8
+youyan 11
+bounds:326,1041,8,16
+youyan 12
+bounds:77,1049,18,8
+youyan 13
+bounds:876,1025,27,32
+youyan 14
+bounds:2010,987,29,15
+youyan 17
+bounds:952,1026,47,31
+zui
+bounds:69,1032,25,4
+rotate:90
+zuob10
+bounds:761,947,40,51
+zuob11
+bounds:1778,1040,18,17
+zuob12
+bounds:641,750,49,56
+zuob13
+bounds:1786,691,33,27
+zuob14
+bounds:683,797,61,65
+zuob15
+bounds:988,729,30,29
+zuob16
+bounds:77,1009,66,48
+zuob17
+bounds:1487,1021,45,36
+zuob18
+bounds:1353,577,94,99
+zuob19
+bounds:1495,77,146,155
+zuob20
+bounds:242,470,246,219
+zuob21
+bounds:1886,269,160,190
+zuob22
+bounds:295,649,130,103
+zuob23
+bounds:1834,941,172,116
+zuob25
+bounds:1529,1001,7,19
+zuob26
+bounds:1649,1039,8,18
+zuob27
+bounds:822,616,66,51
+zuobi01
+bounds:1995,1036,11,21
+zuobi02
+bounds:1362,1014,11,20
+zuobi03
+bounds:2,251,806,1007
+rotate:270
+zuobi04
+bounds:2,106,172,141
+zuobi05
+bounds:1988,705,58,49
+zuobi06
+bounds:333,154,130,130
+zuobi07
+bounds:448,122,139,121
+zuobi08
+bounds:1009,198,97,114
+zuobi09
+bounds:1757,945,74,55
+zuohoufa 01
+bounds:108,197,89,64
+zuohoufa 02
+bounds:1155,966,10,29
+zuohoufa 03
+bounds:1929,920,31,31
+zuohoufa 04
+bounds:1742,642,49,105
+zuotui 01
+bounds:1098,197,158,230
+zuotui 02
+bounds:1138,470,220,587
+zuotui 03
+bounds:919,237,235,820
+zuotui 04
+bounds:2008,1006,33,51
+zuoxiaobi01
+bounds:1601,581,49,41
+zuoxiaobi02
+bounds:493,2,434,717
+rotate:270
+zuoxiaobi03
+bounds:546,438,51,38
+zuoxiaobi05
+bounds:785,640,68,59
+zuoxiaobi06
+bounds:286,600,59,55
+zuoxiaobi07
+bounds:749,855,67,89
+zuoxiaobi08
+bounds:322,764,49,67
+zuoxiaobi09
+bounds:686,32,77,128
+zuoxiaobi10
+bounds:1946,99,100,230
+offsets:13,0,113,230
+zuoxiaobi4
+bounds:1591,473,60,56
+zuoyan 01
+bounds:1361,684,55,22
+zuoyan 02
+bounds:99,1054,8,3
+zuoyan 03
+bounds:1835,937,14,22
+zuoyan 04
+bounds:339,1051,7,6
+zuoyan 05
+bounds:144,1054,3,3
+zuoyan 06
+bounds:738,1052,8,5
+zuoyan 07
+bounds:1534,1043,9,14
+zuoyan 08
+bounds:174,1047,19,10
+zuoyan 09
+bounds:534,972,28,33
+zuoyan 10
+bounds:46,1054,6,3
+zuoyan 11
+bounds:210,1054,5,3
+zuoyan 12
+bounds:28,1055,2,2
+zuoyan 13
+bounds:1567,836,25,20
+zuoyan 14
+bounds:1584,746,42,33

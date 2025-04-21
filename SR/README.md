@@ -45,7 +45,11 @@ https://hsr.hoyoverse.com/en-us/
 - https://act.hoyoverse.com/sr/event/e20240709jade-10ch0z/index.html
 - https://act.hoyoverse.com/sr/event/e20240724coupon-wsrup1/index.html
 - https://act.mihoyo.com/sr/event/e20240727luofu-b91x7m/index.html
+- https://act.mihoyo.com/sr/event/e20240910reflow-k29l1n/index.html
 - https://act.hoyoverse.com/sr/event/e20241012dlc-xqgvp8/index.html
+- https://act.mihoyo.com/sr/event/e20241204reflow-o7nnlf/index.html
+- https://act.mihoyo.com/sr/event/e20250115reflow-634x03/index.html
+- https://act.mihoyo.com/sr/event/e20250409reflow-eor2gd/index.html
 
 ## Puzzle
 - https://act.mihoyo.com/puzzle/hkrpg/pz_stKK3ccUXV/index.html
