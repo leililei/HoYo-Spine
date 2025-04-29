@@ -1,0 +1,13 @@
+game_bg_yun.png
+size:1736,1424
+filter:Linear,Linear
+game_bg_yun_a
+bounds:3,3,1085,378
+offsets:25,0,1110,378
+game_bg_yun_b
+bounds:3,387,1385,354
+offsets:0,0,1412,354
+game_bg_yun_c
+bounds:3,747,1639,344
+game_bg_yun_d
+bounds:3,1097,1730,324

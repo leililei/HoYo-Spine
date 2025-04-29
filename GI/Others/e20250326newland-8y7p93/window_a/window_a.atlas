@@ -1,0 +1,46 @@
+window_a.png
+size:410,110
+filter:Linear,Linear
+xax - 1
+bounds:243,2,19,19
+offsets:5,5,29,29
+xax - 2
+bounds:2,2,124,106
+offsets:0,1,124,108
+xax - 3
+bounds:385,30,31,20
+offsets:6,5,42,30
+rotate:90
+xax - 4
+bounds:336,21,40,47
+offsets:4,2,47,53
+rotate:90
+xax - 5
+bounds:243,23,85,91
+offsets:4,3,92,97
+rotate:90
+xax - 6
+bounds:128,22,86,113
+offsets:4,1,93,114
+rotate:90
+xax - 7
+bounds:336,63,72,45
+offsets:0,4,76,52
+点 - 1
+bounds:285,9,12,12
+offsets:5,5,22,22
+点 - 2
+bounds:264,2,19,19
+offsets:5,5,29,29
+点 - 3
+bounds:128,6,14,14
+offsets:5,5,24,24
+点 - 4
+bounds:144,8,11,12
+offsets:5,5,21,22
+点 - 5
+bounds:385,5,22,23
+offsets:5,5,32,33
+点 - 6
+bounds:299,11,9,10
+offsets:5,5,19,20

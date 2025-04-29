@@ -1,0 +1,39 @@
+gs_dragon.png
+size:1454,537
+filter:Linear,Linear
+scale:0.3
+yy
+bounds:1,1,1201,164
+后面的腿1
+bounds:994,408,128,164
+rotate:90
+后面的腿2
+bounds:1325,54,107,107
+后面的腿3
+bounds:1204,394,142,172
+rotate:90
+后面的腿4
+bounds:1314,298,133,94
+offsets:0,0,461,142
+图层 1
+bounds:650,187,342,349
+大腿
+bounds:994,269,137,152
+rotate:90
+小腿a - 1
+bounds:1204,41,120,119
+rotate:90
+小腿a - 2
+bounds:1171,173,122,105
+offsets:0,0,122,118
+小腿b - 1
+bounds:1295,163,115,158
+offsets:24,0,139,166
+rotate:90
+小腿b - 2
+bounds:994,177,175,90
+腿甲
+bounds:1148,280,112,164
+rotate:90
+身体
+bounds:1,167,647,369

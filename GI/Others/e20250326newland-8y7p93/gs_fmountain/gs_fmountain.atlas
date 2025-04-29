@@ -1,0 +1,14 @@
+gs_fmountain.png
+size:2011,977
+filter:Linear,Linear
+冒烟
+bounds:2,141,771,418
+offsets:4,0,775,420
+后部
+bounds:775,2,557,619
+offsets:6,5,568,629
+rotate:90
+火山
+bounds:2,561,2004,414
+矩形 1 拷贝
+bounds:2008,974,1,1

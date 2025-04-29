@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"1xsLEi6F93Y","spine":"4.2.40","x":-266,"y":-173,"width":532,"height":346},"bones":[{"name":"root"}],"slots":[{"name":"gs_ng_a","bone":"root","attachment":"gs_ng_a"}],"skins":[{"name":"default","attachments":{"gs_ng_a":{"gs_ng_a":{"width":532,"height":346}}}}],"animations":{"animation":{}}}

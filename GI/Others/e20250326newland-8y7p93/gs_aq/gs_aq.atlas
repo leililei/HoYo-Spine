@@ -1,0 +1,15 @@
+gs_aq.png
+size:222,142
+filter:Linear,Linear
+scale:0.3
+wegsrf
+bounds:2,2,185,138
+offsets:1,1,187,140
+图层 1
+bounds:189,71,33,30
+offsets:1,1,35,32
+rotate:90
+图层 2
+bounds:189,106,34,31
+offsets:1,1,36,33
+rotate:90

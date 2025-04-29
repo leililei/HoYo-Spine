@@ -1,0 +1,500 @@
+portrait1403.png
+size:2048,256
+filter:Linear,Linear
+scale:0.1
+1 body
+bounds:5,139,66,56
+rotate:90
+1 face red2
+bounds:1,250,41,5
+1 mouth
+bounds:44,253,9,2
+1B hu
+bounds:1189,161,18,19
+1B hu2
+bounds:1745,47,51,68
+1L arm
+bounds:407,129,14,28
+1L arm hu
+bounds:2022,143,23,19
+rotate:90
+1L arm hu2
+bounds:1,194,15,13
+1L ball
+bounds:791,160,18,20
+1L ball g
+bounds:411,252,4,3
+1L ball lig
+bounds:295,190,8,9
+1L ball lig2
+bounds:2034,215,13,14
+1L bi
+bounds:257,134,28,8
+1L brow
+bounds:28,247,17,5
+1L di
+bounds:331,248,13,7
+offsets:0,0,15,7
+1L forearm
+bounds:295,246,16,9
+1L leg2 shi
+bounds:417,243,7,12
+1L lid
+bounds:2036,196,11,4
+1L lid2
+bounds:376,123,32,21
+1L low
+bounds:346,253,3,2
+1L white
+bounds:1816,159,25,21
+1L x hair
+bounds:639,122,22,31
+1Lhair1
+bounds:1782,50,89,107
+1R arm
+bounds:541,127,15,27
+1R ball
+bounds:1579,161,13,19
+1R ball g
+bounds:2017,253,3,2
+1R ball lig
+bounds:1,210,8,9
+1R ball lig2
+bounds:2035,200,11,13
+1R bi
+bounds:511,173,21,7
+1R bi eyes
+bounds:924,164,17,16
+1R bian
+bounds:2003,219,34,36
+1R brow
+bounds:295,239,13,6
+1R chi
+bounds:295,152,24,29
+1R di
+bounds:2038,234,7,8
+offsets:1,0,8,8
+1R hand
+bounds:1,241,16,8
+1R leg2 shi
+bounds:2034,243,7,12
+1R lid
+bounds:17,249,7,4
+1R lid2
+bounds:896,128,21,19
+1R low
+bounds:2042,253,3,2
+1R white
+bounds:1053,160,17,20
+1R x hair
+bounds:498,123,15,37
+1Rhair1
+bounds:498,148,32,52
+rotate:90
+1Rhair2
+bounds:257,43,58,104
+rotate:90
+1Rhair3
+bounds:9,192,52,60
+1fu8
+bounds:2022,168,22,22
+1fu8 2/1fu8 2_00000
+bounds:1693,1,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00001
+bounds:1913,1,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00002
+bounds:1536,1,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00003
+bounds:1351,2,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00004
+bounds:1220,2,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00005
+bounds:1088,2,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00006
+bounds:957,2,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00007
+bounds:826,2,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00008
+bounds:694,2,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00009
+bounds:559,2,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00010
+bounds:1482,4,54,52
+offsets:24,24,100,100
+rotate:180
+1fu8 2/1fu8 2_00011
+bounds:1617,5,54,52
+offsets:24,24,100,100
+rotate:180
+1fu8 2/1fu8 2_00012
+bounds:1763,6,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00013
+bounds:347,7,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00014
+bounds:474,8,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00015
+bounds:111,16,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00016
+bounds:249,17,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00017
+bounds:59,19,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00018
+bounds:1,19,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00019
+bounds:1798,21,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00020
+bounds:1876,22,54,52
+offsets:24,24,100,100
+rotate:270
+1fu8 2/1fu8 2_00021
+bounds:1645,23,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00022
+bounds:135,24,54,52
+offsets:24,24,100,100
+rotate:180
+1fu8 2/1fu8 2_00023
+bounds:1726,27,54,52
+offsets:24,24,100,100
+rotate:270
+1fu8 2/1fu8 2_00024
+bounds:1985,29,54,52
+offsets:24,24,100,100
+rotate:270
+1fu8 2/1fu8 2_00025
+bounds:1366,30,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00026
+bounds:1235,30,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00027
+bounds:1104,30,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00028
+bounds:972,30,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00029
+bounds:841,30,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00030
+bounds:710,30,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00031
+bounds:575,30,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00032
+bounds:444,33,54,52
+offsets:24,24,100,100
+rotate:270
+1fu8 2/1fu8 2_00033
+bounds:1496,35,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00034
+bounds:1365,63,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00035
+bounds:1234,63,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00036
+bounds:1102,63,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00037
+bounds:971,63,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00038
+bounds:840,63,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00039
+bounds:708,63,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00040
+bounds:573,63,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00041
+bounds:1684,128,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00042
+bounds:1553,128,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00043
+bounds:1421,128,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00044
+bounds:1290,128,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00045
+bounds:1159,128,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00046
+bounds:1027,128,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00047
+bounds:896,128,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00048
+bounds:765,128,54,52
+offsets:24,24,100,100
+1fu8 2/1fu8 2_00049
+bounds:633,128,54,52
+offsets:24,24,100,100
+1fu8 3
+bounds:1465,159,11,21
+1fu8/1fu8_00000
+bounds:1421,50,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00001
+bounds:1290,50,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00002
+bounds:1159,50,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00003
+bounds:1027,50,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00004
+bounds:896,50,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00005
+bounds:764,50,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00006
+bounds:633,50,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00007
+bounds:370,50,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00008
+bounds:498,50,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00009
+bounds:76,71,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00010
+bounds:1,72,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00011
+bounds:182,77,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00012
+bounds:295,79,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00013
+bounds:1947,115,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00014
+bounds:1872,115,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00015
+bounds:1740,115,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00016
+bounds:1609,115,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00017
+bounds:1478,115,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00018
+bounds:1346,115,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00019
+bounds:1215,115,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00020
+bounds:1084,115,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00021
+bounds:952,115,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00022
+bounds:821,115,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00023
+bounds:689,115,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00024
+bounds:558,115,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00025
+bounds:423,115,65,74
+offsets:17,15,100,100
+rotate:90
+1fu8/1fu8_00026
+bounds:1938,181,65,74
+offsets:17,15,100,100
+1fu8/1fu8_00027
+bounds:1872,181,65,74
+offsets:17,15,100,100
+1fu8/1fu8_00028
+bounds:1806,181,65,74
+offsets:17,15,100,100
+1fu8/1fu8_00029
+bounds:1741,181,65,74
+offsets:17,15,100,100
+1fu8/1fu8_00030
+bounds:1675,181,65,74
+offsets:17,15,100,100
+1fu8/1fu8_00031
+bounds:1609,181,65,74
+offsets:17,15,100,100
+1fu8/1fu8_00032
+bounds:1544,181,65,74
+offsets:17,15,100,100
+1fu8/1fu8_00033
+bounds:1478,181,65,74
+offsets:17,15,100,100
+1fu8/1fu8_00034
+bounds:1412,181,65,74
+offsets:17,15,100,100
+1fu8/1fu8_00035
+bounds:1346,181,65,74
+offsets:17,15,100,100
+1fu8/1fu8_00036
+bounds:1281,181,65,74
+offsets:17,15,100,100
+1fu8/1fu8_00037
+bounds:1215,181,65,74
+offsets:17,15,100,100
+1fu8/1fu8_00038
+bounds:1149,181,65,74
+offsets:17,15,100,100
+1fu8/1fu8_00039
+bounds:1084,181,65,74
+offsets:17,15,100,100
+1fu8/1fu8_00040
+bounds:1018,181,65,74
+offsets:17,15,100,100
+1fu8/1fu8_00041
+bounds:952,181,65,74
+offsets:17,15,100,100
+1fu8/1fu8_00042
+bounds:887,181,65,74
+offsets:17,15,100,100
+1fu8/1fu8_00043
+bounds:821,181,65,74
+offsets:17,15,100,100
+1fu8/1fu8_00044
+bounds:755,181,65,74
+offsets:17,15,100,100
+1fu8/1fu8_00045
+bounds:690,181,65,74
+offsets:17,15,100,100
+1fu8/1fu8_00046
+bounds:624,181,65,74
+offsets:17,15,100,100
+1fu8/1fu8_00047
+bounds:558,181,65,74
+offsets:17,15,100,100
+1fu8/1fu8_00048
+bounds:493,181,65,74
+offsets:17,15,100,100
+1fu8/1fu8_00049
+bounds:427,181,65,74
+offsets:17,15,100,100
+1h hair
+bounds:295,145,130,110
+offsets:0,0,131,110
+1hair1
+bounds:1844,58,52,68
+1head flo
+bounds:1610,53,61,56
+1head shi
+bounds:1943,80,91,35
+rotate:180
+1mouth6
+bounds:1,231,8,9
+1mouth7
+bounds:313,250,12,5
+1nose
+bounds:407,254,1,1
+1start3
+bounds:2003,191,26,30
+offsets:2,0,29,32
+rotate:90
+1start4
+bounds:1449,164,15,16
+offsets:3,2,20,21
+AAA棕色
+bounds:182,144,111,111
+AAA白色
+bounds:63,138,117,117
+ear
+bounds:1842,159,24,21
+face sd
+bounds:1923,45,77,70
+face2
+bounds:1671,54,77,68
+offsets:0,0,77,72
+face3
+bounds:1540,54,77,68
+offsets:0,0,77,72
+tou/88 mouth
+bounds:55,254,6,1
+tou/99L lid
+bounds:2036,194,11,3
+tou/99L lid2
+bounds:1,139,33,18
+tou/99R hair2
+bounds:151,42,60,106
+rotate:90
+tou/99R lid
+bounds:1,195,8,3
+tou/99R lid2
+bounds:765,129,24,17
+追加/77L bo yi
+bounds:657,163,29,17
+追加/77L zhu
+bounds:2003,248,5,7
+追加/77R bo yi
+bounds:1594,166,12,14
+追加/77R zhu
+bounds:327,250,4,5
+追加/77body bo
+bounds:1314,167,28,13
+offsets:1,0,29,13
+追加/77body bo2
+bounds:2010,250,5,5
+追加/77suo
+bounds:1713,163,14,17

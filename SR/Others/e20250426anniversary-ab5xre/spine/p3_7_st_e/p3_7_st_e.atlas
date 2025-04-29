@@ -1,0 +1,17 @@
+p3_7_st_e.png
+size:312,704
+filter:Linear,Linear
+a
+bounds:0,128,151,309
+offsets:10,10,171,329
+rotate:90
+b1
+bounds:0,0,144,126
+offsets:10,10,164,146
+b2
+bounds:146,77,49,166
+offsets:10,10,69,186
+rotate:90
+g
+bounds:0,281,278,423
+offsets:10,10,298,443

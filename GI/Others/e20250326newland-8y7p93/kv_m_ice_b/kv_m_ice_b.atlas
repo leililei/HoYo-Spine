@@ -1,0 +1,21 @@
+kv_m_ice_b.png
+size:1270,1017
+filter:Linear,Linear
+scale:0.45
+冰山
+bounds:2,2,1013,790
+rotate:90
+冰山_1 - 3
+bounds:1246,588,14,14
+offsets:2,2,18,18
+冰山_2
+bounds:794,224,439,258
+冰山_3
+bounds:794,604,411,474
+rotate:90
+冰山_4
+bounds:794,42,299,180
+冰山_5
+bounds:794,484,450,118
+冰山_6
+bounds:1095,46,113,176

@@ -1,0 +1,16 @@
+a_p6_鲸鱼e.png
+size:140,130
+filter:Linear,Linear
+scale:0.5
+a
+bounds:3,6,128,121
+offsets:2,2,132,125
+b
+bounds:3,85,35,16
+offsets:3,3,42,23
+c
+bounds:3,106,49,21
+offsets:3,3,55,28
+光晕
+bounds:68,3,69,66
+offsets:6,7,84,82

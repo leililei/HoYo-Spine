@@ -1,0 +1,15 @@
+game_yun_b_l.png
+size:1138,616
+filter:Linear,Linear
+a
+bounds:624,77,69,69
+offsets:3,3,75,75
+b
+bounds:3,585,28,28
+offsets:3,3,34,34
+c
+bounds:531,61,87,86
+offsets:3,3,93,92
+yun
+bounds:3,3,1132,610
+offsets:0,119,1132,729

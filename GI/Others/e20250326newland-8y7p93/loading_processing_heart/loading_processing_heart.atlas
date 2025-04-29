@@ -1,0 +1,14 @@
+loading_processing_heart.png
+size:265,106
+filter:Linear,Linear
+大爱心1
+bounds:121,4,112,100
+offsets:0,0,112,102
+大爱心2
+bounds:2,2,117,102
+爱心粒子1
+bounds:235,65,28,39
+offsets:5,5,38,49
+爱心粒子2
+bounds:235,37,19,26
+offsets:5,5,29,36

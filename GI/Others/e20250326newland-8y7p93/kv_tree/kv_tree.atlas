@@ -1,0 +1,33 @@
+kv_tree.png
+size:1872,436
+filter:Linear,Linear
+scale:0.45
+草 树_1
+bounds:1281,231,440,203
+草 树_11
+bounds:1594,58,92,90
+草 树_13
+bounds:1723,248,186,147
+rotate:90
+草 树_2
+bounds:673,6,428,258
+rotate:90
+草 树_3
+bounds:933,47,387,346
+rotate:90
+草 树_5
+bounds:1594,150,79,116
+offsets:0,16,81,132
+rotate:90
+草 树_6
+bounds:1723,72,138,174
+草 树_7
+bounds:1281,11,218,237
+offsets:21,0,239,258
+rotate:90
+草 树_8
+bounds:1520,13,216,72
+rotate:90
+草 树_9
+bounds:2,2,432,669
+rotate:90

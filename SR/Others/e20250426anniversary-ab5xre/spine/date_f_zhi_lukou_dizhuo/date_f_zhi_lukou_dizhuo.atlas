@@ -1,0 +1,12 @@
+date_f_zhi_lukou_dizhuo.png
+size:429,202
+filter:Linear,Linear
+射灯a
+bounds:0,0,259,202
+射灯b
+bounds:209,4,220,198
+rotate:180
+底座
+bounds:0,91,111,50
+offsets:10,10,131,70
+rotate:90

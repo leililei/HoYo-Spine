@@ -1,0 +1,14 @@
+game_chuang.png
+size:304,204
+filter:Linear,Linear
+game_chuang
+bounds:113,3,188,198
+帆
+bounds:3,65,110,136
+offsets:1,1,115,138
+线a
+bounds:3,29,46,15
+offsets:2,2,51,20
+线b
+bounds:3,47,54,34
+offsets:2,2,58,37

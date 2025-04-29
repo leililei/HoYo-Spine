@@ -1,0 +1,154 @@
+1222.png
+size:223,1002
+filter:Linear,Linear
+scale:0.2
+L arm
+bounds:113,962,19,18
+L arm shi
+bounds:45,7,31,25
+rotate:180
+L arm y
+bounds:175,724,42,55
+rotate:180
+L arm y2
+bounds:187,967,31,34
+L ball
+bounds:191,192,29,35
+L brow
+bounds:1,958,43,6
+offsets:0,0,43,7
+rotate:90
+L dai
+bounds:188,516,29,83
+L ear
+bounds:190,142,38,29
+rotate:270
+L hair
+bounds:1,843,32,158
+L hair shi
+bounds:179,628,35,82
+L hand2
+bounds:1,25,45,24
+L leg
+bounds:133,920,81,78
+rotate:270
+L lid
+bounds:83,7,58,28
+L lid3
+bounds:91,969,19,9
+L lig
+bounds:8,980,6,5
+L low
+bounds:1,954,6,4
+L low2
+bounds:21,835,22,10
+L q hair
+bounds:1,32,33,81
+rotate:90
+L white
+bounds:73,974,42,27
+R arm
+bounds:1,793,22,50
+R arm shi
+bounds:191,17,32,27
+rotate:270
+R arm y
+bounds:168,888,37,52
+rotate:90
+R arm y2
+bounds:180,425,37,31
+R ball
+bounds:198,600,23,34
+R brow
+bounds:4,960,34,7
+rotate:90
+R dai
+bounds:145,62,60,68
+rotate:270
+R hair
+bounds:64,97,68,125
+rotate:270
+R hair2
+bounds:141,758,68,128
+rotate:180
+R hair3
+bounds:80,78,62,135
+rotate:90
+R hand1
+bounds:84,43,41,57
+rotate:90
+R leg
+bounds:146,445,68,72
+rotate:180
+R leg2
+bounds:177,279,60,37
+rotate:90
+R lid
+bounds:157,1,42,26
+R lid3
+bounds:24,892,15,8
+R lig
+bounds:10,964,5,5
+R low
+bounds:9,986,4,4
+R low2
+bounds:23,878,15,15
+R q hair
+bounds:1,48,58,88
+offsets:0,0,58,89
+rotate:90
+R qun1
+bounds:7,90,65,66
+R white
+bounds:105,20,31,27
+daimao
+bounds:140,18,38,51
+rotate:90
+face
+bounds:1,649,178,114
+h dai
+bounds:69,762,26,65
+rotate:90
+h head hair
+bounds:1,263,174,235
+h head shi
+bounds:158,41,55,54
+offsets:0,0,59,54
+rotate:180
+h zong hair
+bounds:3,738,263,161
+rotate:270
+hair sd
+bounds:1,213,134,52
+offsets:0,1,134,53
+rotate:180
+hair1
+bounds:122,345,80,86
+rotate:90
+hair2
+bounds:68,310,133,105
+rotate:90
+hair3
+bounds:1,455,189,193
+hair4
+bounds:142,166,112,57
+offsets:0,0,113,57
+rotate:90
+han
+bounds:20,853,14,25
+hou bai
+bounds:69,145,81,63
+hou bai2
+bounds:196,228,62,26
+rotate:90
+mouth
+bounds:12,847,18,4
+mouth2
+bounds:7,971,8,7
+mouth4
+bounds:54,995,19,6
+nose
+bounds:1,949,2,3
+s body
+bounds:1,144,68,82
+rotate:270
