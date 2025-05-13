@@ -1,0 +1,38 @@
+a_p3_moto.png
+size:167,531
+filter:Linear,Linear
+scale:0.4
+era
+bounds:117,197,47,26
+offsets:1,0,48,26
+erb
+bounds:120,234,42,50
+erc
+bounds:120,19,42,21
+offsets:0,1,42,22
+erd
+bounds:123,274,36,26
+offsets:0,0,37,26
+ert
+bounds:90,7,24,33
+大头发
+bounds:3,192,139,74
+offsets:0,6,152,82
+头发a
+bounds:142,7,14,13
+尾焰
+bounds:3,3,81,37
+offsets:1,0,82,37
+摩托  a
+bounds:3,272,111,73
+摩托  b
+bounds:63,118,85,74
+摩托  c
+bounds:3,439,144,89
+白光
+bounds:3,351,152,82
+轮胎a
+bounds:3,46,66,66
+轮胎b
+bounds:75,46,65,66
+offsets:0,0,66,66

@@ -1,0 +1,15 @@
+c_p3_lan_b.png
+size:627,528
+filter:Linear,Linear
+scale:0.8
+a
+bounds:3,455,55,70
+offsets:6,6,67,82
+b
+bounds:64,465,50,60
+offsets:6,7,62,74
+c
+bounds:120,511,19,14
+offsets:7,7,33,28
+c_p3_lan_b
+bounds:3,3,621,522

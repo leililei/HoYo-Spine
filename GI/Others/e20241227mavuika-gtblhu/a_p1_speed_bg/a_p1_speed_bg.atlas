@@ -1,0 +1,13 @@
+a_p1_speed_bg.png
+size:1150,150
+filter:Linear,Linear
+scale:0.5
+a_p1_speed_bga
+bounds:808,26,223,33
+offsets:2,1,226,35
+a_p1_speed_bgb
+bounds:808,65,339,82
+offsets:2,2,342,85
+a_p1_speed_bgc
+bounds:3,3,799,144
+offsets:1,1,801,146

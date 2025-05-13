@@ -19,6 +19,7 @@ google: ```site:act.hoyoverse.com/sr/event```
 - 3.0 https://act.hoyoverse.com/sr/event/e20250101version-saokss/index.html
 - 3.1 https://act.hoyoverse.com/sr/event/e20250214version-833ooe/index.html
 - 3.2 https://act.hoyoverse.com/sr/event/e20250328version-ebbbcb/index.html
+- 3.3 https://act.mihoyo.com/sr/event/e20250509version-kvx5ju/index.html
 
 ## Home
 https://hsr.hoyoverse.com/en-us/

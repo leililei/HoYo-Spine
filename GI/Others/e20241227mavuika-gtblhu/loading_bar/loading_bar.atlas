@@ -1,0 +1,9 @@
+loading_bar.png
+size:1084,552
+filter:Linear,Linear
+loading
+bounds:545,3,536,546
+offsets:9,9,554,564
+loadingB
+bounds:3,3,536,546
+offsets:9,9,554,564

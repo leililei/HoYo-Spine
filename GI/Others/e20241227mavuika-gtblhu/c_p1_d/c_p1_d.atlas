@@ -1,0 +1,16 @@
+c_p1_d.png
+size:1063,782
+filter:Linear,Linear
+a
+bounds:363,5,616,429
+rotate:270
+b
+bounds:798,218,471,191
+offsets:9,9,489,209
+rotate:90
+c
+bounds:798,5,262,207
+offsets:9,9,280,225
+d
+bounds:3,3,717,776
+offsets:3,0,720,776
