@@ -1,0 +1,14 @@
+p3ani_whale.png
+size:1590,552
+filter:Linear,Linear
+鳍a
+bounds:680,2,908,548
+鳍b
+bounds:2,235,315,676
+rotate:90
+
+p3ani_whale_2.png
+size:1904,1754
+filter:Linear,Linear
+身体
+bounds:2,2,1900,1750

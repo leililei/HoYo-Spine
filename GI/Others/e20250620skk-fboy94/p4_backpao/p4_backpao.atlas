@@ -1,0 +1,16 @@
+p4_backpao.png
+size:682,409
+filter:Linear,Linear
+a
+bounds:2,40,367,364
+offsets:1,1,368,365
+rotate:90
+b
+bounds:368,132,312,275
+c
+bounds:368,2,128,128
+offsets:1,1,130,130
+d
+bounds:498,56,74,73
+offsets:1,1,76,75
+rotate:90

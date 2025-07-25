@@ -1,0 +1,14 @@
+p2_cloud4_L.png
+size:633,1778
+filter:Linear,Linear
+a
+bounds:0,0,378,515
+offsets:5,5,388,525
+rotate:90
+b
+bounds:0,382,432,519
+offsets:5,5,442,529
+rotate:90
+c
+bounds:0,818,633,960
+offsets:5,5,643,970

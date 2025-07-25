@@ -1,0 +1,16 @@
+fiiend_bg.png
+size:2048,1714
+filter:Linear,Linear
+c
+bounds:1202,554,702,1160
+rotate:180
+fiiend_bg
+bounds:0,575,1651,1139
+l
+bounds:1449,531,599,1169
+offsets:94,0,693,1169
+rotate:180
+r
+bounds:0,0,571,1173
+offsets:0,0,653,1173
+rotate:90

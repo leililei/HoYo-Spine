@@ -1,0 +1,9 @@
+intro_text_bg.png
+size:1560,304
+filter:Linear,Linear
+c
+bounds:0,41,998,263
+offsets:5,5,1008,273
+mask_img
+bounds:1002,0,304,558
+rotate:90

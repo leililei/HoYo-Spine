@@ -1,0 +1,12 @@
+p2_card_bg.png
+size:791,681
+filter:Linear,Linear
+bg
+bounds:0,0,463,681
+offsets:5,5,473,691
+mask
+bounds:467,17,664,272
+rotate:90
+st
+bounds:743,631,48,50
+offsets:5,5,58,60
