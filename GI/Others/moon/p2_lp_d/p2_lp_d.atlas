@@ -1,0 +1,15 @@
+p2_lp_d.png
+size:1506,1506
+filter:Linear,Linear
+scale:0.8
+p2_lp_f
+bounds:0,0,1506,1506
+offsets:8,8,1522,1522
+
+p2_lp_d_2.png
+size:1428,1428
+filter:Linear,Linear
+scale:0.8
+a
+bounds:0,0,1428,1428
+offsets:8,8,1444,1444

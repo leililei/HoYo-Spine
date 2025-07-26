@@ -1,0 +1,1 @@
+https://ys.mihoyo.com/moon

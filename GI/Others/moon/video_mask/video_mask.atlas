@@ -1,0 +1,6 @@
+video_mask.png
+size:193,135
+filter:Linear,Linear
+scale:0.3
+mask
+bounds:0,0,193,135
