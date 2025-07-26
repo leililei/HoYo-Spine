@@ -1,0 +1,17 @@
+p2_button.png
+size:537,94
+filter:Linear,Linear
+base
+bounds:0,0,194,69
+red
+bounds:196,0,152,84
+yellow
+bounds:349,10,152,84
+rotate:180
+高光
+bounds:147,84,51,10
+黑边
+bounds:503,19,57,34
+rotate:90
+黑遮挡
+bounds:0,71,145,23

@@ -1,0 +1,30 @@
+loading_person.png
+size:1867,1973
+filter:Linear,Linear
+scale:0.7
+Texture
+bounds:1117,711,1,1
+offsets:1446,0,1447,1353
+Texture 拷贝 10
+bounds:1752,1708,259,95
+offsets:3,2,264,99
+rotate:90
+Texture 拷贝 12
+bounds:1117,724,1243,623
+offsets:3,3,1249,629
+rotate:90
+Texture 拷贝 14
+bounds:1568,184,528,293
+rotate:90
+Texture 拷贝 16
+bounds:815,11,741,608
+Texture 拷贝 4
+bounds:6,6,797,613
+Texture 拷贝 6
+bounds:1568,61,111,179
+rotate:90
+Texture 拷贝 8
+bounds:1752,1550,101,146
+图层 540
+bounds:6,631,1099,1336
+offsets:10,3,1113,1353

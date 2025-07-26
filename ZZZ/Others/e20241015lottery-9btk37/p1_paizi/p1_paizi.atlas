@@ -1,0 +1,17 @@
+p1_paizi.png
+size:1079,623
+filter:Linear,Linear
+光2 拷贝 2
+bounds:0,0,779,623
+offsets:4,4,787,631
+布
+bounds:781,447,149,124
+offsets:3,0,152,127
+灯牌亮
+bounds:931,0,445,148
+offsets:4,4,453,156
+rotate:90
+灯牌暗
+bounds:781,0,445,148
+offsets:4,4,453,156
+rotate:90

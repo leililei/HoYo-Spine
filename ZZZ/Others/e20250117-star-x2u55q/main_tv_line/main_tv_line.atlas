@@ -1,0 +1,36 @@
+main_tv_line.png
+size:1900,1773
+filter:Linear,Linear
+C_a_star - 3
+bounds:1560,6,334,332
+offsets:64,65,461,461
+Lines - 1
+bounds:6,704,1754,112
+offsets:2,2,1758,116
+Lines - 2
+bounds:6,458,1754,54
+offsets:2,2,1758,58
+Lines - 3
+bounds:6,350,1754,21
+offsets:2,2,1758,25
+Lines - 4
+bounds:6,383,1754,22
+offsets:2,2,1758,26
+Lines - 5
+bounds:6,596,1754,96
+offsets:2,2,1758,100
+Lines - 6
+bounds:6,417,1754,29
+offsets:2,2,1758,33
+Lines - 7
+bounds:6,524,1754,60
+offsets:2,2,1758,64
+zs1
+bounds:6,45,506,293
+zs2
+bounds:524,45,506,293
+zs3
+bounds:1042,45,506,293
+“矩形 6239 拷贝 2”的内阴影
+bounds:6,828,1649,939
+offsets:2,2,1653,943

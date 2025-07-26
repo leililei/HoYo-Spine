@@ -1,0 +1,20 @@
+c_a_star.png
+size:401,539
+filter:Linear,Linear
+C_a_star - 1
+bounds:322,14,49,48
+C_a_star - 2
+bounds:237,6,33,32
+C_a_star - 3
+bounds:322,74,49,49
+g
+bounds:237,50,73,73
+offsets:14,18,102,102
+lizi
+bounds:123,21,102,102
+star
+bounds:6,21,102,105
+rotate:90
+star2
+bounds:6,135,389,398
+offsets:0,8,389,406

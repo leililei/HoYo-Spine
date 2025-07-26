@@ -1,0 +1,10 @@
+loading_fire.png
+size:39,60
+filter:Linear,Linear
+红点
+bounds:18,2,6,6
+组 5
+bounds:2,13,35,45
+黑点
+bounds:2,3,10,11
+rotate:90
