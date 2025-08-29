@@ -1,0 +1,10 @@
+kv_kelv_glow.png
+size:1920,903
+filter:Linear,Linear
+scale:0.402
+火彩
+bounds:5,5,893,950
+rotate:90
+火彩光
+bounds:965,5,893,950
+rotate:90

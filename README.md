@@ -9,7 +9,9 @@ if you have a request, feel free to tell me it
 - [Genshin Imapct / Yuanshen](GI)
 - [Zenless Zone Zero](ZZZ)
 - [Honkai Impact 3rd / BH3](HI3)
+- [Honkai: Nexus Anima / YYJL](HNA)
 - [HoYoLab](HoYoLab)
+- [Miyoushe](Miyoushe)
 - [Others](Others)
 
 ## How to see spine?
