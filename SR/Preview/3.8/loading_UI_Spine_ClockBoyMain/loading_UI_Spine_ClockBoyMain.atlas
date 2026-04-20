@@ -1,0 +1,265 @@
+loading_UI_Spine_ClockBoyMain.png
+\tsize: 2048, 2048
+\tfilter: Linear, Linear
+\tscale: 0.85
+Anger_Face
+\tbounds: 1750, 1571, 252, 184
+Anger_LeftEye_Un
+\tbounds: 1750, 1990, 52, 37
+\trotate: 90
+Anger_LeftEye_Up
+\tbounds: 1886, 15, 94, 62
+\trotate: 90
+Anger_Lefteyeblack
+\tbounds: 1931, 382, 44, 82
+Anger_Lefthand
+\tbounds: 550, 19, 73, 80
+\toffsets: 0, 3, 73, 83
+Anger_Mouth
+\tbounds: 101, 62, 164, 65
+Anger_RightEye_Un
+\tbounds: 545, 105, 52, 27
+Anger_RightEye_Up
+\tbounds: 391, 4, 60, 58
+\trotate: 180
+Anger_Rightarm
+\tbounds: 1933, 946, 51, 82
+\toffsets: 0, 0, 60, 82
+Anger_Righteyelash
+\tbounds: 1900, 1548, 37, 29
+Anger_Righteyelid_Un
+\tbounds: 1988, 1403, 55, 67
+\trotate: 180
+Anger_Righteyelid_Up
+\tbounds: 1943, 13, 56, 76
+Anger_Righthand
+\tbounds: 682, 62, 72, 72
+Anger_Tongue
+\tbounds: 2, 9, 54, 32
+Angry_Rightsleeve
+\tbounds: 1933, 1087, 57, 55
+\toffsets: 0, 1, 57, 59
+\trotate: 270
+Cry_Img/Cry_LeftEye
+\tbounds: 1757, 50, 56, 79
+Cry_Img/Cry_LeftEye_Un
+\tbounds: 198, 106, 40, 22
+Cry_Img/Cry_LeftEye_Up
+\tbounds: 2019, 1937, 57, 19
+\trotate: 90
+Cry_Img/Cry_Leftarm
+\tbounds: 2011, 1546, 33, 58
+\trotate: 180
+Cry_Img/Cry_Leftsleeve
+\tbounds: 476, 16, 44, 65
+\trotate: 90
+Cry_Img/Cry_Mouth
+\tbounds: 2004, 1605, 139, 33
+\trotate: 90
+Cry_Img/Cry_RightEye
+\tbounds: 1855, 68, 52, 78
+Cry_Img/Cry_RightEye_Tear
+\tbounds: 1817, 1531, 23, 20
+Cry_Img/Cry_RightEye_Up
+\tbounds: 1934, 1243, 59, 51
+Cry_Img/Cry_Rightarm
+\tbounds: 1933, 842, 43, 53
+Cry_Img/Cry_Rightsleeve
+\tbounds: 1943, 1428, 62, 85
+Cry_Img/water_Img/Cry_Water_00000
+\tbounds: 1313, 296, 435, 435
+Cry_Img/water_Img/Cry_Water_00003
+\tbounds: 1313, 733, 435, 435
+Cry_Img/water_Img/Cry_Water_00005
+\tbounds: 1313, 1170, 435, 435
+Cry_Img/water_Img/Cry_Water_00008
+\tbounds: 1313, 1607, 435, 435
+Cry_Img/water_Img/Cry_Water_00010
+\tbounds: 876, 296, 435, 435
+Cry_Img/water_Img/Cry_Water_00012
+\tbounds: 876, 733, 435, 435
+Cry_Img/water_Img/Cry_Water_00015
+\tbounds: 876, 1170, 435, 435
+Cry_Img/water_Img/Cry_Water_00017
+\tbounds: 876, 1607, 435, 435
+Cry_Img/water_Img/Cry_Water_00019
+\tbounds: 439, 296, 435, 435
+Cry_Img/water_Img/Cry_Water_00022
+\tbounds: 439, 733, 435, 435
+Cry_Img/water_Img/Cry_Water_00024
+\tbounds: 439, 1170, 435, 435
+Cry_Img/water_Img/Cry_Water_00027
+\tbounds: 439, 1607, 435, 435
+Cry_Img/water_Img/Cry_Water_00029
+\tbounds: 2, 296, 435, 435
+Cry_Img/water_Img/Cry_Water_00031
+\tbounds: 2, 733, 435, 435
+Cry_Img/water_Img/Cry_Water_00034
+\tbounds: 2, 1170, 435, 435
+Cry_Img/water_Img/Cry_Water_00036
+\tbounds: 2, 1607, 435, 435
+Happy_Bow
+\tbounds: 442, 50, 106, 73
+Happy_Clothes
+\tbounds: 1180, 44, 94, 99
+Happy_ClothesbeltL
+\tbounds: 1934, 1166, 58, 75
+\toffsets: 0, 15, 61, 113
+Happy_ClothesbeltR
+\tbounds: 1931, 286, 39, 99
+Happy_Face
+\tbounds: 1750, 1756, 284, 286
+Happy_Hat
+\tbounds: 1750, 1297, 295, 260
+\toffsets: 0, 0, 298, 260
+\trotate: 90
+Happy_LeftMalus
+\tbounds: 1996, 1995, 46, 47
+Happy_LeftMoustache
+\tbounds: 1789, 2021, 25, 21
+Happy_LeftWhite_Up
+\tbounds: 752, 18, 56, 77
+\trotate: 180
+Happy_Leftarm
+\tbounds: 1750, 1518, 80, 69
+\trotate: 90
+Happy_Lefthand
+\tbounds: 339, 42, 87, 101
+\trotate: 90
+Happy_Leftsleeve_UP
+\tbounds: 101, 15, 53, 58
+\toffsets: 0, 1, 56, 59
+Happy_Leftsleeve_Un
+\tbounds: 1750, 1299, 36, 55
+\toffsets: 0, 0, 38, 55
+Happy_Mouth
+\tbounds: 1499, 173, 203, 121
+Happy_RightEyeLine
+\tbounds: 624, 22, 61, 110
+\toffsets: 0, 1, 61, 111
+Happy_RightEyeWhite
+\tbounds: 267, 16, 62, 112
+\toffsets: 0, 1, 63, 113
+Happy_RightMalus
+\tbounds: 1750, 1757, 39, 37
+Happy_RightWhite_Un
+\tbounds: 1933, 884, 50, 59
+\toffsets: 0, 1, 50, 60
+Happy_RightWhite_Up
+\tbounds: 799, 55, 56, 79
+\trotate: 180
+Happy_Rightarm
+\tbounds: 1932, 748, 71, 82
+Happy_Righteye_Un
+\tbounds: 56, 3, 45, 31
+\toffsets: 0, 0, 49, 31
+Happy_Rightsleeve
+\tbounds: 1933, 1030, 57, 52
+\toffsets: 0, 0, 57, 57
+\trotate: 90
+Happy_Rightthand
+\tbounds: 1909, 1282, 104, 144
+\toffsets: 0, 1, 104, 148
+Happy_RigihtEyeBlack
+\tbounds: 1704, 53, 52, 90
+\trotate: 180
+Happy_RigihttMoustache
+\tbounds: 1820, 1553, 23, 17
+Happy_Star1
+\tbounds: 1356, 42, 113, 114
+\trotate: 90
+Happy_Star2
+\tbounds: 1704, 145, 125, 126
+Happy_Star3
+\tbounds: 1583, 85, 119, 118
+Happy_Trousers
+\tbounds: 143, 12, 128, 52
+\toffsets: 0, 0, 128, 71
+\trotate: 180
+Happy_noes
+\tbounds: 315, 91, 20, 37
+Happy_pointer
+\tbounds: 855, 47, 72, 82
+Silent_Img/Silent_Leftarm
+\tbounds: 678, 7, 48, 48
+Silent_Img/Silent_Leftsleeve
+\tbounds: 1986, 1479, 70, 59
+\toffsets: 0, 0, 71, 59
+\trotate: 90
+Silent_Img/Silent_Rightarm
+\tbounds: 706, 2, 48, 48
+\trotate: 90
+Silent_Img/Silent_Rightsleeve
+\tbounds: 1980, 1732, 70, 58
+\trotate: 270
+Silent_Img/Silent_Star
+\tbounds: 329, 3, 37, 43
+Smoke/Angry_Smoke_00
+\tbounds: 1805, 12, 63, 53
+\toffsets: 81, 83, 218, 218
+\trotate: 90
+Smoke/Angry_Smoke_02
+\tbounds: 2, 43, 97, 84
+\toffsets: 66, 66, 218, 218
+Smoke/Angry_Smoke_04
+\tbounds: 1831, 148, 127, 123
+\toffsets: 54, 55, 218, 218
+Smoke/Angry_Smoke_06
+\tbounds: 1356, 157, 141, 137
+\toffsets: 46, 49, 218, 218
+Smoke/Angry_Smoke_08
+\tbounds: 1198, 145, 156, 149
+\toffsets: 38, 44, 218, 218
+Smoke/Angry_Smoke_10
+\tbounds: 1037, 141, 159, 153
+\toffsets: 36, 42, 218, 218
+Smoke/Angry_Smoke_12
+\tbounds: 872, 137, 163, 157
+\toffsets: 35, 40, 218, 218
+Smoke/Angry_Smoke_14
+\tbounds: 704, 136, 166, 158
+\toffsets: 34, 40, 218, 218
+Smoke/Angry_Smoke_16
+\tbounds: 533, 134, 169, 160
+\toffsets: 32, 39, 218, 218
+Smoke/Angry_Smoke_18
+\tbounds: 359, 131, 172, 163
+\toffsets: 31, 38, 218, 218
+Smoke/Angry_Smoke_20
+\tbounds: 181, 130, 176, 164
+\toffsets: 29, 37, 218, 218
+Smoke/Angry_Smoke_22
+\tbounds: 2, 129, 177, 165
+\toffsets: 29, 37, 218, 218
+Smoke/Angry_Smoke_24
+\tbounds: 1750, 273, 179, 168
+\toffsets: 28, 36, 218, 218
+Smoke/Angry_Smoke_26
+\tbounds: 1750, 611, 180, 168
+\toffsets: 28, 36, 218, 218
+Smoke/Angry_Smoke_28
+\tbounds: 1750, 781, 181, 170
+\toffsets: 28, 35, 218, 218
+Smoke/Angry_Smoke_30
+\tbounds: 1750, 953, 181, 170
+\toffsets: 28, 35, 218, 218
+Smoke/Angry_Smoke_32
+\tbounds: 1750, 1125, 182, 171
+\toffsets: 28, 35, 218, 218
+Smoke/Angry_Smoke_34
+\tbounds: 1750, 443, 182, 166
+\toffsets: 28, 40, 218, 218
+
+loading_UI_Spine_ClockBoyMain_2.png
+\tsize: 2048, 512
+\tfilter: Linear, Linear
+\tscale: 0.85
+Anger_Shadow
+\tbounds: 530, 47, 319, 491
+\trotate: 90
+Happy_Shadow
+\tbounds: 2, 2, 364, 526
+\trotate: 90
+Silent_Img/Silent_Shadow
+\tbounds: 1023, 25, 341, 490
+\trotate: 90

@@ -20,6 +20,12 @@ google: ```site:act.hoyoverse.com/sr/event```
 - 3.1 https://act.hoyoverse.com/sr/event/e20250214version-833ooe/index.html
 - 3.2 https://act.hoyoverse.com/sr/event/e20250328version-ebbbcb/index.html
 - 3.3 https://act.mihoyo.com/sr/event/e20250509version-kvx5ju/index.html
+- 3.6 https://act.mihoyo.com/puzzle/hkrpg/e20250912version_1303/index.html
+- 3.7 https://act.mihoyo.com/puzzle/hkrpg/e20251024vesion_1316/index.html
+- 3.8 https://act.mihoyo.com/puzzle/hkrpg/rpg_version_page_380_1327/index.html
+- 4.0 https://act.mihoyo.com/sr/event/e20260206version-nwlbwa/index.html
+- 4.1 https://act.mihoyo.com/puzzle/hkrpg/e20260313version_1365/index.html
+- 4.2 https://act.mihoyo.com/puzzle/hkrpg/e20260410version_1370/index.html
 
 ## Home
 https://hsr.hoyoverse.com/en-us/

@@ -1,0 +1,686 @@
+dali.png
+\tsize: 2047, 2047
+\tfilter: Linear, Linear
+\tscale: 0.32
+L_eye_1
+\tbounds: 1937, 537, 17, 26
+L_eye_2
+\tbounds: 2018, 1345, 24, 22
+L_eye_3
+\tbounds: 98, 1325, 15, 17
+L_eye_4
+\tbounds: 997, 354, 15, 13
+L_eye_5
+\tbounds: 57, 1290, 11, 4
+L_eye_6
+\tbounds: 23, 1200, 4, 4
+L_eye_7
+\tbounds: 3, 1026, 13, 14
+L_eye_8
+\tbounds: 95, 373, 20, 20
+L_hand_10
+\tbounds: 1360, 334, 33, 37
+\trotate: 90
+L_hand_11
+\tbounds: 98, 1347, 17, 41
+L_hand_12
+\tbounds: 2024, 848, 20, 31
+L_hand_13
+\tbounds: 2023, 1290, 20, 33
+L_hand_14
+\tbounds: 101, 758, 13, 28
+L_hand_15
+\tbounds: 1937, 2024, 22, 20
+L_hand_16
+\tbounds: 127, 77, 28, 17
+L_hand_17
+\tbounds: 1956, 1001, 22, 42
+\trotate: 270
+L_hand_18
+\tbounds: 3, 1372, 18, 14
+L_hand_2
+\tbounds: 95, 1253, 20, 63
+L_hand_20
+\tbounds: 1277, 4, 30, 24
+\trotate: 180
+L_hand_21
+\tbounds: 1036, 35, 20, 34
+\trotate: 90
+L_hand_22
+\tbounds: 26, 1447, 85, 18
+L_hand_24
+\tbounds: 1937, 1408, 22, 47
+L_hand_25
+\tbounds: 60, 1394, 53, 47
+L_hand_26
+\tbounds: 909, 8, 126, 65
+L_hand_3
+\tbounds: 997, 279, 23, 15
+L_hand_4
+\tbounds: 32, 1233, 46, 36
+\trotate: 270
+L_hand_5
+\tbounds: 796, 5, 29, 12
+L_hand_6
+\tbounds: 44, 1212, 41, 10
+L_hand_9
+\tbounds: 1937, 714, 21, 35
+\trotate: 90
+L_leg_1
+\tbounds: 1937, 736, 74, 123
+R_eye_1
+\tbounds: 102, 1156, 12, 14
+R_eye_2
+\tbounds: 3, 1141, 10, 21
+R_eye_3
+\tbounds: 46, 906, 9, 12
+R_eye_4
+\tbounds: 3, 1266, 5, 14
+R_eye_5
+\tbounds: 3, 1286, 11, 20
+R_eye_6
+\tbounds: 67, 1384, 4, 4
+R_eye_7
+\tbounds: 70, 1364, 9, 12
+R_eye_8
+\tbounds: 3, 1235, 10, 18
+R_hand_1
+\tbounds: 1551, 3, 38, 18
+R_hand_10
+\tbounds: 103, 1192, 12, 12
+R_hand_11
+\tbounds: 726, 25, 87, 36
+R_hand_12
+\tbounds: 1937, 1461, 28, 27
+R_hand_13
+\tbounds: 2020, 475, 59, 24
+\trotate: 90
+R_hand_14
+\tbounds: 1992, 540, 50, 63
+R_hand_15
+\tbounds: 1063, 339, 29, 27
+R_hand_16
+\tbounds: 228, 6, 75, 27
+R_hand_17
+\tbounds: 2021, 413, 28, 21
+\trotate: 90
+R_hand_18
+\tbounds: 2006, 1064, 38, 40
+R_hand_19
+\tbounds: 758, 8, 32, 11
+R_hand_20
+\tbounds: 1243, 165, 20, 24
+\toffsets: 0, 0, 20, 26
+\trotate: 90
+R_hand_3
+\tbounds: 2006, 1006, 52, 28
+\trotate: 90
+R_hand_4
+\tbounds: 1408, 5, 106, 46
+R_hand_5
+\tbounds: 1453, 336, 31, 28
+\trotate: 90
+R_hand_7
+\tbounds: 3, 1312, 35, 51
+R_hand_8
+\tbounds: 94, 713, 19, 39
+R_hand_9
+\tbounds: 381, 6, 84, 55
+R_leg_1
+\tbounds: 1937, 1329, 86, 159
+R_leg_3
+\tbounds: 3, 654, 112, 280
+R_leg_4
+\tbounds: 2015, 1836, 33, 26
+\trotate: 90
+bg_13
+\tbounds: 1937, 587, 155, 99
+\toffsets: 0, 0, 155, 110
+\trotate: 90
+bg_19
+\tbounds: 1821, 6, 29, 19
+\toffsets: 0, 0, 31, 20
+bg_2
+\tbounds: 1937, 1494, 116, 90
+\trotate: 90
+bg_20
+\tbounds: 1312, 5, 61, 48
+\toffsets: 0, 2, 65, 51
+\trotate: 90
+bg_22
+\tbounds: 121, 373, 1671, 1810
+\trotate: 90
+bg_25
+\tbounds: 3, 100, 267, 375
+\trotate: 90
+bg_3
+\tbounds: 309, 10, 66, 84
+bg_34
+\tbounds: 1946, 244, 42, 55
+\trotate: 90
+bg_4
+\tbounds: 659, 4, 57, 61
+\trotate: 90
+bg_6
+\tbounds: 1078, 5, 31, 34
+\trotate: 270
+bg_7
+\tbounds: 709, 67, 282, 300
+bg_9
+\tbounds: 1401, 288, 77, 79
+\toffsets: 4, 0, 81, 79
+\trotate: 180
+bird_10
+\tbounds: 1937, 1821, 223, 107
+\trotate: 90
+bird_13
+\tbounds: 997, 299, 68, 68
+bird_14
+\tbounds: 1937, 358, 54, 31
+\toffsets: 0, 5, 54, 36
+bird_17
+\tbounds: 3, 1201, 14, 22
+bird_18
+\tbounds: 1856, 4, 37, 19
+bird_20
+\tbounds: 2027, 885, 35, 17
+\trotate: 90
+bird_21
+\tbounds: 3, 379, 31, 24
+\trotate: 270
+bird_22
+\tbounds: 3, 778, 10, 8
+bird_23
+\tbounds: 104, 792, 11, 16
+bird_24
+\tbounds: 1259, 358, 17, 9
+bird_25
+\tbounds: 1937, 1907, 11, 12
+bird_26
+\tbounds: 1937, 1921, 14, 12
+\toffsets: 0, 0, 14, 14
+bird_27
+\tbounds: 893, 39, 20, 22
+\toffsets: 1, 0, 21, 22
+bird_28
+\tbounds: 2029, 1418, 15, 18
+bird_29
+\tbounds: 1524, 5, 21, 16
+bird_30
+\tbounds: 1097, 353, 19, 14
+bird_31
+\tbounds: 997, 203, 19, 19
+bird_32
+\tbounds: 100, 654, 12, 12
+bird_33
+\tbounds: 261, 39, 17, 6
+\toffsets: 0, 0, 17, 7
+bird_34
+\tbounds: 101, 940, 12, 10
+bird_35
+\tbounds: 161, 87, 15, 7
+bird_36
+\tbounds: 1937, 1943, 13, 14
+bird_37
+\tbounds: 106, 1447, 7, 6
+bird_38
+\tbounds: 44, 1413, 8, 8
+bird_39
+\tbounds: 2022, 363, 26, 22
+\trotate: 90
+bird_40
+\tbounds: 3, 925, 111, 282
+bird_43
+\tbounds: 1482, 4, 23, 36
+\trotate: 270
+bird_44
+\tbounds: 127, 29, 177, 65
+\toffsets: 6, 0, 183, 65
+bird_5
+\tbounds: 997, 79, 35, 21
+\trotate: 90
+bird_6
+\tbounds: 2000, 1624, 45, 42
+\trotate: 90
+bird_9
+\tbounds: 997, 63, 304, 517
+\trotate: 90
+body_14
+\tbounds: 82, 654, 52, 29
+\trotate: 90
+body_16_light
+\tbounds: 1999, 1735, 114, 35
+\trotate: 90
+body_19
+\tbounds: 3, 1011, 9, 9
+body_22
+\tbounds: 2000, 1675, 44, 54
+body_23
+\tbounds: 1025, 10, 173, 300
+\trotate: 270
+body_25
+\tbounds: 2011, 2001, 33, 43
+body_27
+\tbounds: 1358, 10, 110, 118
+\trotate: 90
+body_29
+\tbounds: 1937, 851, 93, 172
+body_3
+\tbounds: 3, 10, 118, 84
+body_30
+\tbounds: 2002, 1110, 34, 111
+body_35
+\tbounds: 471, 7, 54, 92
+\trotate: 90
+body_36
+\tbounds: 1995, 705, 44, 66
+body_37
+\tbounds: 127, 6, 67, 25
+body_38
+\tbounds: 2013, 774, 31, 68
+body_40
+\tbounds: 1344, 67, 35, 37
+\trotate: 180
+body_42
+\tbounds: 2025, 609, 17, 22
+body_6
+\tbounds: 101, 1480, 13, 14
+body_9
+\tbounds: 70, 1226, 22, 160
+face_1
+\tbounds: 108, 1469, 4, 5
+face_3
+\tbounds: 88, 456, 25, 18
+face_4
+\tbounds: 3, 926, 22, 24
+face_5
+\tbounds: 94, 1098, 21, 52
+face_6
+\tbounds: 43, 1427, 9, 15
+face_7
+\tbounds: 3, 376, 106, 98
+fir_3
+\tbounds: 3, 1203, 291, 61
+\trotate: 90
+fir_5
+\tbounds: 384, 67, 300, 319
+\trotate: 90
+fir_6
+\tbounds: 1795, 31, 205, 243
+\trotate: 90
+fir_9
+\tbounds: 1937, 358, 82, 242
+\toffsets: 0, 0, 84, 243
+hair_1
+\tbounds: 1946, 292, 93, 60
+hair_12
+\tbounds: 1937, 862, 85, 49
+\trotate: 90
+hair_19
+\tbounds: 1937, 1170, 103, 175
+hair_3
+\tbounds: 1586, 3, 18, 50
+\trotate: 90
+hair_31
+\tbounds: 1937, 396, 131, 36
+\trotate: 90
+hair_32
+\tbounds: 2007, 246, 40, 29
+\trotate: 90
+hair_4
+\tbounds: 1937, 1282, 47, 41
+\trotate: 270
+hair_9
+\tbounds: 997, 120, 30, 75
+hat_1
+\tbounds: 2029, 1442, 46, 15
+\trotate: 90
+hat_3
+\tbounds: 1177, 190, 34, 12
+hat_4
+\tbounds: 1288, 347, 41, 20
+hat_5
+\tbounds: 3, 792, 62, 23
+\trotate: 90
+hat_6
+\tbounds: 28, 1459, 75, 35
+hat_9
+\tbounds: 3, 854, 64, 37
+\trotate: 90
+ly1
+\tbounds: 2015, 1227, 57, 27
+\trotate: 90
+ly3
+\tbounds: 569, 15, 84, 46
+ly4
+\tbounds: 3, 480, 168, 99
+\trotate: 90
+lyb1
+\tbounds: 819, 23, 68, 38
+lyb2
+\tbounds: 91, 1210, 37, 23
+\trotate: 90
+lyb4
+\tbounds: 205, 3, 23, 17
+\trotate: 90
+lyb5
+\tbounds: 1129, 354, 43, 13
+mouth_1
+\tbounds: 43, 1265, 16, 19
+mouth_2
+\tbounds: 1030, 163, 16, 16
+mouth_3
+\tbounds: 20, 1294, 11, 12
+nose
+\tbounds: 1336, 353, 18, 14
+rain_1
+\tbounds: 1520, 27, 209, 269
+\trotate: 90
+rain_10
+\tbounds: 1488, 241, 126, 452
+\trotate: 90
+rain_11
+\tbounds: 3, 1499, 113, 545
+\toffsets: 0, 0, 113, 736
+rain_12
+\tbounds: 1937, 1616, 57, 199
+rain_2
+\tbounds: 1937, 1029, 63, 136
+rain_6
+\tbounds: 726, 3, 26, 16
+rain_9
+\tbounds: 1795, 7, 20, 18
+shabu_1
+\tbounds: 1004, 5, 68, 23
+
+dali_2.png
+\tsize: 2048, 1156
+\tfilter: Linear, Linear
+\tscale: 0.32
+L_hand_1
+\tbounds: 753, 14, 148, 123
+\toffsets: 0, 0, 150, 123
+L_hand_19
+\tbounds: 493, 931, 37, 53
+L_hand_27
+\tbounds: 1124, 665, 68, 72
+L_hand_7
+\tbounds: 1389, 768, 99, 81
+L_hand_8
+\tbounds: 552, 103, 109, 160
+L_leg_2
+\tbounds: 1250, 709, 195, 298
+L_leg_3
+\tbounds: 721, 417, 167, 277
+\trotate: 90
+R_hand_2
+\tbounds: 1781, 151, 152, 264
+\trotate: 90
+R_hand_21
+\tbounds: 1011, 803, 34, 34
+R_hand_6
+\tbounds: 1915, 956, 29, 45
+R_leg_2
+\tbounds: 1883, 89, 162, 155
+bg_1
+\tbounds: 436, 459, 178, 195
+\trotate: 90
+bg_10
+\tbounds: 1872, 811, 35, 48
+\toffsets: 1, 0, 36, 53
+bg_11
+\tbounds: 1915, 1117, 24, 36
+\toffsets: 1, 0, 33, 36
+bg_12
+\tbounds: 864, 1127, 27, 26
+\toffsets: 4, 0, 31, 27
+bg_14
+\tbounds: 296, 58, 132, 108
+\toffsets: 0, 0, 132, 116
+bg_15
+\tbounds: 1314, 696, 55, 46
+bg_16
+\tbounds: 338, 171, 194, 141
+\toffsets: 0, 1, 199, 142
+bg_17
+\tbounds: 1304, 1051, 85, 81
+\toffsets: 0, 0, 85, 84
+bg_18
+\tbounds: 1430, 1126, 31, 27
+\toffsets: 3, 4, 34, 32
+bg_21
+\tbounds: 2000, 934, 45, 29
+bg_23
+\tbounds: 3, 3, 189, 220
+\trotate: 90
+bg_35
+\tbounds: 247, 376, 126, 227
+bg_36
+\tbounds: 1825, 379, 126, 227
+bg_37
+\tbounds: 3, 588, 429, 131
+\toffsets: 0, 0, 429, 245
+bg_5
+\tbounds: 1411, 856, 40, 33
+bg_8
+\tbounds: 1685, 469, 134, 116
+bird_1
+\tbounds: 1547, 372, 471, 292
+\trotate: 270
+bird_11
+\tbounds: 669, 826, 66, 92
+bird_12
+\tbounds: 1222, 770, 49, 57
+bird_15
+\tbounds: 379, 506, 54, 63
+\toffsets: 0, 0, 66, 63
+bird_16
+\tbounds: 779, 1113, 41, 40
+\toffsets: 2, 0, 43, 40
+bird_19
+\tbounds: 493, 1103, 35, 25
+bird_2
+\tbounds: 991, 106, 137, 139
+bird_3
+\tbounds: 723, 1085, 56, 68
+bird_4
+\tbounds: 1376, 736, 44, 26
+bird_41
+\tbounds: 773, 418, 58, 50
+bird_42
+\tbounds: 866, 1082, 93, 71
+bird_45
+\tbounds: 1469, 968, 202, 185
+bird_46
+\tbounds: 719, 419, 59, 70
+bird_8
+\tbounds: 512, 1027, 238, 126
+body_1
+\tbounds: 736, 870, 54, 65
+body_10
+\tbounds: 914, 51, 71, 134
+body_11
+\tbounds: 1915, 973, 125, 180
+body_12
+\tbounds: 419, 72, 181, 144
+\trotate: 90
+body_13
+\tbounds: 1913, 697, 132, 173
+body_15
+\tbounds: 746, 230, 154, 309
+\toffsets: 0, 1, 154, 310
+\trotate: 90
+body_16
+\tbounds: 637, 336, 268, 260
+\trotate: 180
+body_17
+\tbounds: 1691, 524, 354, 329
+body_18
+\tbounds: 455, 259, 301, 161
+body_2
+\tbounds: 1466, 292, 353, 151
+body_20
+\tbounds: 846, 707, 66, 36
+body_21
+\tbounds: 437, 657, 71, 62
+body_24
+\tbounds: 1633, 99, 126, 149
+\trotate: 90
+body_26
+\tbounds: 1477, 393, 70, 165
+body_28
+\tbounds: 461, 359, 123, 94
+body_31
+\tbounds: 780, 1028, 71, 33
+body_32
+\tbounds: 3, 401, 236, 194
+body_33
+\tbounds: 1629, 456, 56, 69
+body_34
+\tbounds: 493, 747, 184, 177
+\trotate: 90
+body_39
+\tbounds: 493, 878, 31, 48
+body_4
+\tbounds: 1014, 294, 455, 208
+\trotate: 180
+body_41
+\tbounds: 965, 1107, 50, 46
+body_43
+\tbounds: 514, 641, 109, 34
+body_44
+\tbounds: 40, 172, 242, 229
+body_45
+\tbounds: 1130, 358, 228, 428
+\trotate: 90
+body_5
+\tbounds: 834, 415, 72, 36
+body_7
+\tbounds: 629, 73, 118, 66
+body_8
+\tbounds: 891, 677, 230, 132
+face_2
+\tbounds: 1631, 1126, 44, 27
+fir_1
+\tbounds: 1270, 795, 60, 66
+\toffsets: 10, 0, 70, 76
+fir_10
+\tbounds: 1957, 443, 69, 75
+fir_11
+\tbounds: 857, 183, 143, 253
+\trotate: 90
+fir_2
+\tbounds: 912, 705, 115, 54
+fir_4
+\tbounds: 1696, 933, 213, 220
+fir_7
+\tbounds: 1339, 180, 212, 174
+\trotate: 180
+fir_8
+\tbounds: 1976, 795, 69, 91
+\toffsets: 0, 4, 69, 95
+hair_10
+\tbounds: 1779, 19, 107, 81
+hair_11
+\tbounds: 1556, 202, 88, 87
+hair_13
+\tbounds: 1435, 78, 124, 115
+hair_14
+\tbounds: 3, 87, 200, 144
+hair_15
+\tbounds: 667, 120, 252, 232
+\trotate: 180
+hair_16
+\tbounds: 168, 87, 179, 165
+hair_17
+\tbounds: 1485, 25, 141, 121
+\trotate: 180
+hair_18
+\tbounds: 1575, 1022, 131, 113
+\trotate: 90
+hair_2
+\tbounds: 571, 349, 59, 104
+hair_20
+\tbounds: 454, 17, 92, 96
+hair_21
+\tbounds: 1796, 56, 237, 94
+hair_22
+\tbounds: 1108, 646, 116, 35
+hair_23
+\tbounds: 1691, 675, 160, 105
+hair_24
+\tbounds: 1928, 941, 117, 108
+hair_25
+\tbounds: 1184, 448, 51, 79
+hair_26
+\tbounds: 91, 281, 357, 172
+\trotate: 180
+hair_27
+\tbounds: 1057, 413, 84, 64
+hair_28
+\tbounds: 67, 386, 97, 84
+hair_29
+\tbounds: 1102, 125, 338, 167
+\trotate: 180
+hair_30
+\tbounds: 1122, 58, 292, 197
+\trotate: 180
+hair_33
+\tbounds: 841, 387, 76, 52
+hair_34
+\tbounds: 1261, 335, 57, 72
+hair_35
+\tbounds: 1528, 592, 65, 73
+hair_36
+\tbounds: 1650, 392, 155, 71
+hair_37
+\tbounds: 981, 658, 127, 52
+hair_5
+\tbounds: 1615, 1067, 44, 39
+hair_6
+\tbounds: 658, 1112, 52, 41
+hair_7
+\tbounds: 1274, 672, 28, 31
+hair_8
+\tbounds: 168, 410, 55, 55
+hat_10
+\tbounds: 689, 772, 164, 168
+hat_2
+\tbounds: 852, 1055, 53, 33
+hat_7
+\tbounds: 756, 1051, 105, 102
+hat_8
+\tbounds: 1532, 69, 266, 275
+ly2
+\tbounds: 1565, 1112, 44, 23
+rain_3
+\tbounds: 3, 725, 484, 428
+rain_5
+\tbounds: 1618, 8, 132, 188
+\trotate: 90
+rain_7
+\tbounds: 994, 31, 149, 253
+\toffsets: 9, 0, 324, 316
+\trotate: 270
+rain_8
+\tbounds: 1430, 922, 37, 50
+\toffsets: 0, 0, 37, 51
+shabu_2
+\tbounds: 1241, 485, 668, 780
+\trotate: 270
+shabu_3
+\tbounds: 493, 628, 525, 919
+\toffsets: 5, 20, 530, 939
+\trotate: 90
+shabu_4
+\tbounds: 493, 918, 723, 235
+\toffsets: 40, 0, 763, 246
+\trotate: 180
+shabu_42
+\tbounds: 1300, 276, 154, 40
+shabu_5
+\tbounds: 678, 519, 633, 171
+\toffsets: 40, 0, 673, 171
+shabu_6
+\tbounds: 1709, 229, 336, 163
+\trotate: 180
